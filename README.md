@@ -1,5 +1,3 @@
 # another-sample-project
 
-change this ..........
-
-adding another line!
+Here is a fancy readme!
